@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addyapandey" alt="addyapandey" /></a> </p>
 
-- 🔭 I’m currently working on *AWS*
+- 🔭 I’m currently working on *React.js* and *Tailwind CSS*
 
-- 🌱 I’m currently learning *Cpp|Pye*
+- 🌱 I’m currently learning other *Frontend Libraries*
 
 - 🤝 I’m looking for help with *DSA*
 
-- 💬 Ask me about *AWS|Docket*
+- 💬 Ask me about *Frontend*
 
-- 📫 How to reach me *addyapandey05@gmail.com*
+- 📫 How to reach me *addyapandey2002@gmail.com*
 
-- ⚡ Fun fact *I listen songs while programming*
+- ⚡ Fun fact *I listen songs while programming and I love capturing moments*
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Happy to connect</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/addya-pandey-513507255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/addya-pandey-513507255/" height="30" width="40" /></a>
 </p>
